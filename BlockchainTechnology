@@ -26,3 +26,5 @@ Blocks: Every block contains a collection of transactions, a timestamp, and a ha
 Hashing: Cryptographic hashing connects the blocks and secures the integrity and permanence of the data.
 Consensus Mechanism: Algorithms such as Proof of Work or Proof of Stake enable all nodes to agree on the current state of the blockchain.
 Key Elements: Techniques like cryptography (hashing and encryption), decentralized networks where nodes validate data, and immutability, as each block is securely linked.
+
+
